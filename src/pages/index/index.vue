@@ -1,6 +1,6 @@
 <template>
-  <div>
-    HelloWorld!!
+  <div class="msg">
+    HelloWorld!!!
   </div>
 </template>
 
@@ -10,6 +10,10 @@ export default {
 }
 </script>
 
-<style scoped>
-
+<style lang="scss" scoped>
+  .msg{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+  }
 </style>
