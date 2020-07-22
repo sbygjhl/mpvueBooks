@@ -7,5 +7,10 @@
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "图书管理系统",
     "navigationBarTextStyle": "black"
+  },
+  "usingComponents": {
+      "van-button": "vant-weapp/dist/button/index"
   }
+  
 }
+  
